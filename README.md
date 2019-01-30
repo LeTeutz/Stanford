@@ -4,4 +4,4 @@
 
 and
 
-*FTC Rover-Ruckus 2018-2019 code, coprogrammer with xRoAlex, link here (https://github.com/xRoALex/Rover_ruckus), in the Team Code folder
+*FTC Rover-Ruckus 2018-2019 code, coprogrammer with xRoAlex, link here (https://github.com/xRoALex/Rover_ruckus), in the ftc_app-master/TeamCode/ folder
